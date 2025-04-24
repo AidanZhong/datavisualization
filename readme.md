@@ -8,6 +8,7 @@ code link: https://github.com/AidanZhong/datavisualization
 ## Comparison of Environmental Impact by Diet Group (Average Values)
 ![overall.png](overall.png)
 ![overall_heatmap.png](overall_heatmap.png)
+
 From the overall figure we can tell that vegan group damage the environment the least and meat100 damage the most
 
 ![mean_acid.png](mean_acid.png)
