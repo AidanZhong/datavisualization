@@ -6,15 +6,19 @@ Student number: 20702503
 code link: https://github.com/AidanZhong/datavisualization
 
 ## Comparison of Environmental Impact by Diet Group (Average Values)
-![Mean Acid.png](Mean%20Acid.png)
-![Mean Bio.png](Mean%20Bio.png)
-![Mean Eut.png](Mean%20Eut.png)
-![Mean Ghgs.png](Mean%20Ghgs.png)
-![Mean Ghgs Ch4.png](Mean%20Ghgs%20Ch4.png)
-![Mean Ghgs N2O.png](Mean%20Ghgs%20N2O.png)
-![Mean Land.png](Mean%20Land.png)
-![Mean Watscar.png](Mean%20Watscar.png)
-![Mean Watuse.png](Mean%20Watuse.png)
+![overall.png](overall.png)
+![overall_heatmap.png](overall_heatmap.png)
+From the overall figure we can tell that vegan group damage the environment the least and meat100 damage the most
+
+![mean_acid.png](mean_acid.png)
+![mean_bio.png](mean_bio.png)
+![mean_eut.png](mean_eut.png)
+![mean_ghgs.png](mean_ghgs.png)
+![mean_ghgs_ch4.png](mean_ghgs_ch4.png)
+![mean_ghgs_n2o.png](mean_ghgs_n2o.png)
+![mean_land.png](mean_land.png)
+![mean_watscar.png](mean_watscar.png)
+![mean_watuse.png](mean_watuse.png)
 
 - Mean Acid / Acidification potential
   - Measures emissions that can cause acid rain, harming soil, forests, and aquatic systems.
@@ -46,9 +50,9 @@ code link: https://github.com/AidanZhong/datavisualization
 Overall, the vegan is the best diet group and it is the best in every metric. And the meat100 is the worst in every metric.
 
 ## Disparity analysis
-![Disparity_Meat100_vs_Vegan.png](Disparity_Meat100_vs_Vegan.png)
-
 Disparity between meat100 and vegan diets (in %):
+
+![disparity_between_minmax.png](disparity_between_minmax.png)
 
 | term          | percentage  |
 |---------------|-------------|
