@@ -1,6 +1,9 @@
 # data analysis and visualization
 Author: Qinkun Zhong
+
 Student number: 20702503
+
+code link: https://github.com/AidanZhong/datavisualization
 
 [toc]
 
