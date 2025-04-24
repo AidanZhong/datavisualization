@@ -5,8 +5,6 @@ Student number: 20702503
 
 code link: https://github.com/AidanZhong/datavisualization
 
-[toc]
-
 ## Comparison of Environmental Impact by Diet Group (Average Values)
 ![Mean Acid.png](Mean%20Acid.png)
 ![Mean Bio.png](Mean%20Bio.png)
